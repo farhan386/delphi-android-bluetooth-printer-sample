@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00.00.00.000.012,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.757,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.242,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.077,Z:\Temp\belajar\PrintBLuetoothFast\PrintBLuetooth.dproj=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.274,Z:\Temp\belajar\PrintBLuetoothFast\uMain.fmx=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.044,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.647,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.069,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.274,Z:\Temp\belajar\PrintBLuetoothFast\uMain.pas=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.344,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.485,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00.00.00.000.806,=C:\Users\Farhan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="TSFUKZ8HSWDM5P8S"/>
+	</ActiveMobileDevice>
+</BorlandProject>
